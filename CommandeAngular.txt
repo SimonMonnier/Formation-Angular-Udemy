@@ -1,0 +1,10 @@
+Commande angular :
+
+*Créer un projet
+    ng new mon-projet-angular --style=scss --skip-tests=true
+
+*Lancer le server
+    ng serve --open
+
+*Créer un component
+    ng generate component mon-premier 
